@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cinza">
+
+
+    <!-- Minesweeper -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/text_view_id"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/gamename"
+            android:textSize="50dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center|bottom">
+
+        <!-- BTN 1 Jogador -->
+        <Button
+            android:id="@+id/JogadorUm"
+            android:layout_width="170dp"
+            android:layout_height="60dp"
+            android:text="@string/umjogador" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <!-- BTN 2 Jogadores -->
+        <Button
+            android:id="@+id/JogadorDois"
+            android:layout_width="170dp"
+            android:layout_height="60dp"
+            android:text="@string/doisjogadores" />
+
+    </LinearLayout>
+
+    <!-- LinearLayout para espaço em branco entre BTN JogadorDois e
+     BTNs de linguas e creditos-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    </LinearLayout>
+
+    <!-- LinearLayout que contem butões de linguas e creditos -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1">
+            <Button
+                android:id="@+id/Creditos"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/creditos"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

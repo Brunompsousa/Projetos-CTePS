@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="butaoiniciarjogo">"Kaishi suru "</string>
+    <string name="losepart2">Byō!</string>
+    <string name="winpart2">Byō!</string>
+    <string name="textcomecar">Tatchi shite atarashī gēmu o kaishi suru</string>
+    <string name="losepart1">"Anata wa ushinauga, soreha kakatta "</string>
+    <string name="winpart1">Anata ga katsu, sore ga kakatta</string>
+    <string name="creditos">Kurejitto</string>
+    <string name="umjogador">1 Purēyā</string>
+    <string name="doisjogadores">2 Purēyā</string>
+    <string name="gamename">Minesweeper</string>
+    <string name="linhas_opcoes">Gyō</string>
+    <string name="colunas_opcoes">retsu</string>
+    <string name="bombas_opcoes">bakudan</string>
+    <string name="avancar_opcoes">zokkō</string>
+    <string name="campo_de_jogo">Gēmufīrudo</string>
+    <string name="cadeira">Programação em Java para Dispositivos Moveis</string>
+    <string name="errobombas">Bakudan - Min: 10 | Max: 40</string>
+    <string name="errorLinCol">Gyō to retsu - Min: 8 | Max: 15</string>
+    <string name="Errorall">Gyō to retsu - Min: 8 | Max: 15 Bakudan - Min: 10 | Max: 40</string>
+    <string name="realizado_por">Ni yotte ensō sa reta:</string>
+    <string name="realizado_no_mbito_da_cadeira_de">"Kiritsu no han'i de tsukura reta: "</string>
+    <string name="voltar">Bakku</string>
+    <string name="ponelose">" Purēyā 1 gēmu o ushinau -"</string>
+    <string name="ptwolose">" Purēyā 2 gēmu o ushinau -"</string>
+    <string name="ptwowin">" Senshu 2 shōsha -"</string>
+    <string name="ponewin">" Senshu 1 shōsha -"</string>
+    <string name="gametime">" Gēmu jikan: "</string>
+    <string name="turn">Magaru</string>
+    <string name="playerplaing">Purēyā</string>
+    <string name="oneplaymode">"Akutibumōdopurēyā "</string>
+    <string name="twoplayermode">Akutibumōdopurēyā</string>
+    <string name="nowinner">Izure no pureiyā mo kachimasen. Subete no burokku ga hakken sa remashita.</string>
+</resources>

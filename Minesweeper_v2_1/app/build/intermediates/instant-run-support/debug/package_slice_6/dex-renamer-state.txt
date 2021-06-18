@@ -1,0 +1,4 @@
+#Mon Jan 22 01:57:39 GMT 2018
+base.0=C\:\\Users\\Brums\\Desktop\\Minesweeper_v2_1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textcomecar">Touchez Commencer pour commencer une nouvelle partie</string>
+    <string name="winpart2">secondes!</string>
+    <string name="losepart2">secondes!</string>
+    <string name="losepart1">"Vous perdez, mais il a fallu "</string>
+    <string name="winpart1">Vous gagnez, il a fallu</string>
+    <string name="butaoiniciarjogo">commencer</string>
+    <string name="umjogador">1 joueur</string>
+    <string name="doisjogadores">2 joueur</string>
+    <string name="creditos">Crédits</string>
+    <string name="gamename">Minesweeper</string>
+    <string name="campo_de_jogo">"Champ de jeu "</string>
+    <string name="linhas_opcoes">Lignes</string>
+    <string name="colunas_opcoes">Colonnes</string>
+    <string name="bombas_opcoes">Bombes</string>
+    <string name="avancar_opcoes">Continuer</string>
+    <string name="cadeira">Programação em Java para Dispositivos Moveis</string>
+    <string name="errobombas">Des bombes - Min: 10 | Max: 40</string>
+    <string name="errorLinCol">Lignes et Colonnes - Min: 8 | Max: 15</string>
+    <string name="Errorall">Lignes et Colonnes - Min: 8 | Max: 15 Des bombes - Min: 10 | Max: 40</string>
+    <string name="realizado_por">"Interprété par: "</string>
+    <string name="realizado_no_mbito_da_cadeira_de">"Fabriqué dans le cadre de la discipline de: "</string>
+    <string name="voltar">Retour</string>
+    <string name="ponelose">" Joueur 1 Perdre le jeu -"</string>
+    <string name="ptwolose">" Joueur 2 Perdre le jeu -"</string>
+    <string name="ptwowin">" Joueur 2 Gagnant -"</string>
+    <string name="ponewin">" Joueur 1 Gagnant -"</string>
+    <string name="gametime">" Temps de jeu: "</string>
+    <string name="turn">tourner</string>
+    <string name="playerplaing">Joueur</string>
+    <string name="twoplayermode">"joueurs mode actif "</string>
+    <string name="oneplaymode">"joueur mode actif "</string>
+    <string name="nowinner">Aucun joueur ne gagne. Chaque bloc a été découvert.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textcomecar">Toque no Começar para um novo jogo</string>
+    <string name="winpart2">segundos!</string>
+    <string name="losepart2">segundos!</string>
+    <string name="losepart1">Perdeste, mas no entanto demoraste</string>
+    <string name="winpart1">Ganhas-te o jogo em</string>
+    <string name="butaoiniciarjogo">Comecar</string>
+    <string name="creditos">Creditos</string>
+    <string name="umjogador">1 Jogador</string>
+    <string name="doisjogadores">2 Jogadores</string>
+    <string name="gamename">Minesweeper</string>
+    <string name="campo_de_jogo">Campo de jogo</string>
+    <string name="linhas_opcoes">Linhas</string>
+    <string name="colunas_opcoes">Colunas</string>
+    <string name="bombas_opcoes">Bombas</string>
+    <string name="avancar_opcoes">Continuar</string>
+    <string name="cadeira">Programação em Java para Dispositivos Moveis</string>
+    <string name="errobombas">Bombas - Min: 10 | Max: 40</string>
+    <string name="errorLinCol">Linhas and Colunas - Min: 8 | Max: 15</string>
+    <string name="Errorall">Linhas and Colunas - Min: 8 | Max: 15 Bombas - Min: 10 | Max: 40</string>
+    <string name="realizado_por">Realizado por:</string>
+    <string name="realizado_no_mbito_da_cadeira_de">Realizado no âmbito da cadeira de:</string>
+    <string name="voltar">Voltar</string>
+    <string name="gametime">" Tempo de jogo: "</string>
+    <string name="ponewin">" Jogador 1 Vencedor -"</string>
+    <string name="ptwowin">" Jogador 2 Vencedor -"</string>
+    <string name="ptwolose">" Jogador 2 Perdeu o jogo -"</string>
+    <string name="ponelose">" Jogador 1 Perdeu o jogo -"</string>
+    <string name="turn">turno</string>
+    <string name="playerplaing">Jogador</string>
+    <string name="oneplaymode">" jogador ativo"</string>
+    <string name="twoplayermode">jogadores ativo</string>
+    <string name="nowinner">Nenhum dos jogadores ganhou. Todos os blocos foram abertos.</string>
+</resources>

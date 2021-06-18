@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/creditos"
+            android:id="@+id/Titulo"
+            android:textSize="30dp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textSize="20dp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/realizado_por"
+            android:id="@+id/CreditosEmSi"
+            android:textSize="20dp"
+            android:gravity="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bruno"
+            android:id="@+id/Tu"
+            android:textSize="15dp"
+            android:gravity="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tiago"
+            android:id="@+id/Eu"
+            android:textSize="15dp"
+            android:gravity="center|top"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textSize="20dp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/realizado_no_mbito_da_cadeira_de"
+            android:id="@+id/cadeira"
+            android:textSize="20dp"
+            android:gravity="center|top"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cadeira"
+            android:id="@+id/PJDM"
+            android:textSize="15dp"
+            android:gravity="center|top"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/isec"
+            android:id="@+id/ISEC"
+            android:textSize="20dp"
+            android:gravity="center|top"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="6">
+        <Button
+            android:id="@+id/Creditos"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/voltar"
+            />
+    </LinearLayout>
+
+</LinearLayout>
